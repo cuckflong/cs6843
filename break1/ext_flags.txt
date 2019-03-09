@@ -1,0 +1,2 @@
+nopoke: COMP6843{e65e9af7-704a-4acd-944c-d67cb8dc3442}
+' and name like 'Ab%' and exists(select flag from flag where flag like 'COMP6843{e65e9af7-704a-4acd-944c-d67cb8dc3442}') --
