@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"net/http"
 	"net/url"
 )
@@ -20,7 +21,8 @@ func main() {
 			if err != nil {
 				fmt.Println("Error sending POST request")
 			}
-			defer resp.Bo
+			defer resp.Body.Close()
+			body, err := ioutil.ReadAll(resp.Body)
 		}
 	}
 }
