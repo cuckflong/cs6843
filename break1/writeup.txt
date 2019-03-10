@@ -1,0 +1,47 @@
+CS6843 Break 1
+Johnathan Liauw (z5136212)
+
+Flags:
+
+Recon:
+dev.ns.agency: COMP6443{b6598782f1cba0229e0c2ce24052cb247d593a76}
+php.dev.ns.agency: COMP6443{bbbb6c17-9e69-4e0a-8f86-15cd38a8f665}
+qa.ns.agency: COMP6443{e6a9d29aebad56873fe730daf3312ed6b01e0e0c}
+marketing.ns.agency: COMP6443{387a788f85ecb66422d14f45557d45db1e4c4486}
+cat.ns.agency: COMP6443{6269baf868d02bf59261cc785b18e8e5ccf19688}
+dota.ns.agency: COMP6443{6e8fd977ee2ffad2aa180f64094f72a4d847cf21}
+account.ns.agency COMP6443{abdca219c986c36774f0398b3ec583b61a727faa}
+cactus.ns.agency: COMP6443{91a9c4db5a0297105c210fd4f1ed9dc4ebba9f29}
+en.cactus.ns.agency: COMP6443{1b38b875536041d524242f89d30a0c28ef24c8eb}
+fr.cactus.ns.agency: COMP6443{9f77867dca228fa7cb69bab54c7c8ca11cc90daf}
+en-us.ns.agency: COMP6443{8759c0a1e6c241c6428374b72d754701de93341f}
+aus.ns.agency: COMP6443{68735dc042f81ec0a05d9577a8c4aa46aeba4634}
+kb.ns.agency/sys/oh-a-flag.txt: COMP6443{ece4d311-5da9-4133-8e3e-9d121581c6a5}
+ns.agency-TXT_Record: COMP6443{0d1c0a8f-d4ca-4e6e-982b-d3ef419a9a5f}
+notmonitoringyourinternettraffic.ns.agency: COMP6443{f288c7441233897e4b335f2a1840de1ae1dbba21}
+7xxxxxxxml.redline.eu.ns.agency: COMP6443{24e9799a7e5c829775bd46b813bec84dec6219ac}
+_spf.ns.agency-TXT_Record: COMP6443{50859965-6045-4EDB-B3BB-25B3A22A366C}
+http://13.238.81.98/: COMP6443{bea725dd9d91a78afaf067e953c3587777362ccd}
+51a55a0e3c1efe4cbf5cf569a726a35e-js.ns.agency/flag.txt: COMP6443{5a121fb0-4aac-4664-89d4-20385a07cfec}
+a726b3bcf1cf9578a334bdf3f6a1f564.ns.agency: COMP6443{c92ecd889ec9ce1533f5fc6c50e3d263bead1c7d}
+redteam.dev.ns.agency: COMP6443{32951307931867d66e6795227e86143d23e1b556}
+broken.ns.agency: COMP6443{763029311136584ebc0e0a7027aee65767e12d3b}
+2018.ns.agency: COMP6443{aa6c1a49096293519ca45bedc01501d834f1dc0e}
+dev.2018.ns.agency: COMP6443{d91f53f9ca2695aac2e39dc7a2e0a5ce2ceffe1c}
+awesome.autogyro.ns.agency: COMP6443{5a9650fa-1e1c-45ba-a490-31192b1ab012}
+au01.aws.ns.agency: COMP6443{AC70D672-AAA4-4323-8EBF-E396097771F9}
+analytics.au01.aws.ns.agency: COMP6443{d2b0e6fd839af0a1ef508ae9498517ce0c4f6faa}
+redirector.au01.aws.ns.agency: COMP6443{0e1d08f0502d61621f3dac6f11d8b2ce5580f0f2}
+restricted.au01.aws.ns.agency: COMP6443{476cd2ef2e89d8fe91484e6ca6edf27fa272573c}
+s3.au01.aws.ns.agency: COMP6443{8a170deca7b708e1d9e13b7c9692f57d11005ebd}
+stage1.au01.aws.ns.agency: COMP6443{2ca1a4bd9cbdd93aa922a6222d80b62f84f8c573}
+aus.marketing.ns.agency: COMP6443{3981250053ec049364a32ee462f6683f2566bc26}
+ns.agency-git: COMP6443{07b97691-6173-47b3-b1a9-3133db2fa587}
+ipv6.ns.agency: COMP6443{fbbc71ed34a286e541844be8a6b50c1dfe2d369e}
+783883deb90c69709c4204c09e8ae87d.ssl.ns.agency: COMP6443{d6ae6604f9ec13e941e090251bf8ea7c01ad2d37}
+
+Exploit:
+SQLi - admin:1' or '1
+login.ns.agency: COMP6443{c966e3ff6076382991478001d5c2fb7c5db7141e}
+SQLi - cookie
+bread.ns.agency: COMP6443{d7702bc0-1c3e-42ec-a3fc-95c116c90e64} 
