@@ -1,0 +1,5 @@
+Drive:
+Database Name: drive
+Tables: files, users
+Columns in files: id, name, content, author
+Columns in users: username, password, role, user, current_connections, total_connections
